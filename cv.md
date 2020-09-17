@@ -1,9 +1,9 @@
 # Welcome to my personal page !
 
 _Hello there!_
-My name is ***[Aliaksei Karalkou.](https://AlekKar.github.com/rsschool-cv/cv)***
+My name is ***[Aliaksei Karalkou.](https://github.com/AlekKar/rsschool-cv/cv)***
 I'm a Novice programmer. I don't have any work experience yet. But I have great qualities of character. I know how to put people together in a team. Solve problems together. _And my team is on top in RSS school_ !
-**_If you need to solve a problem quickly_**, ==then you have come to the right place.==
+**_If you need to solve a problem quickly_**, then you have come to the right place.
 
 ##  ` Skills.`
 
