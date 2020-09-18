@@ -1,1 +1,1 @@
-https://AlekKar.github.com/rsschool-cv/cv
+https://AlekKar.github.io/rsschool-cv/cv
