@@ -1,3 +1,3 @@
 
-https://AlekKar.github.io/rsschool-cv/Index.html
+https://AlekKar.github.io/rsschool-cv/index.html
 
